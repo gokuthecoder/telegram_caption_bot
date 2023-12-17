@@ -1,6 +1,6 @@
 # Telegram Caption Bot
 
-![Telegram Caption Bot](link_to_bot_image.png)
+![Telegram Caption Bot]([link_to_bot_image.png](https://cdn-icons-png.flaticon.com/512/4712/4712248.png))
 
 A Telegram bot that adds captions to files and forwards them to a specified channel.
 
@@ -38,3 +38,30 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/your_username/telegram-caption-bot.git
+   
+## Configuration
+
+Create a .env file in the project root and fill in the necessary credentials:
+
+API_ID=your_api_id
+API_HASH='your_api_hash'
+STRING_SESSION='your_string_session'
+TELEGRAM_BOT_TOKEN='your_bot_token'
+CHANNEL_ID=@your_channel
+
+
+## Usage
+
+Start the bot by running:
+
+nodemon index.js
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+
+## Licence
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
