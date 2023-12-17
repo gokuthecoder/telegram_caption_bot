@@ -1,6 +1,7 @@
 # Telegram Caption Bot
 
-![Telegram Caption Bot]([link_to_bot_image.png](https://cdn-icons-png.flaticon.com/512/4712/4712248.png))
+![Telegram Caption Bot](https://cdn-icons-png.flaticon.com/256/4712/4712248.png)
+
 
 A Telegram bot that adds captions to files and forwards them to a specified channel.
 
