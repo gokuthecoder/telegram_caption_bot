@@ -1,0 +1,28 @@
+{
+  "name": "ddlbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+        "build": "npm install",
+        "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "input": "^1.0.1",
+    "mime-types": "^2.1.35",
+    "node-telegram-bot-api": "^0.64.0",
+    "telegram": "^2.19.10",
+    "torrent-search-api": "^2.1.4",
+    "webtorrent": "^2.1.30",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.23.5"
+
+  }
+}
